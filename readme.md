@@ -1,0 +1,1 @@
+Esse é um exemplo de como usar o git
